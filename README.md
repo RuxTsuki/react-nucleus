@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Nucleus app made it with react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created just for practice my skills of css and design, the main idea is to add more interesing ideas of design to practice css and animations.
 
 ## Available Scripts
 
