@@ -1,0 +1,50 @@
+.nucleus {
+  margin-top: 3rem;
+}
+
+.nucleus__heading {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.nucleus__container {
+  max-width: 120rem;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.nucleus__grid {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+@media (min-width: 768px) {
+  .nucleus__grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 5rem;
+    align-items: center;
+  }
+}
+
+.cards-longth__card {
+  box-shadow: 2px 0px 15px 3px rgba(0, 0, 0, 0.15);
+  padding: 2rem;
+  margin-bottom: 4.5rem;
+  transition-property: transform;
+  transition-duration: 250ms;
+}
+
+.cards-longth__card:hover {
+  transform: scale(1.08);
+}
+
+.cards-longth__heading {
+  font-size: 3rem;
+  color: var(--primary);
+  margin: 0;
+}
+.cards-longth__text {
+  margin: 0;
+  font-size: 2rem;
+}
