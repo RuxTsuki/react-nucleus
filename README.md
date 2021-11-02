@@ -1,6 +1,6 @@
 # Nucleus app made it with react
 
-This project was created just for practice my skills of css and design, the main idea is to add more interesing ideas of design to practice css and animations.
+This project was created just for practice my skills of css and design, the main idea is to add more interesing features and improve also my skill of design.
 
 ## Available Scripts
 
